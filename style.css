@@ -1,0 +1,15 @@
+textarea.form-control
+{
+    border:1px solid red;
+}
+.h4,.h1,a
+{
+    
+        font-family: "Margarine", sans-serif!important;
+    
+}
+.btn
+{
+    margin-left: 100px;
+    margin-right: 20px;
+}
